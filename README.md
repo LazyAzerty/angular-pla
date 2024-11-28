@@ -3,6 +3,8 @@
 This project aims at recreating the User Interface of the game **Pokémon Legends: Arceus** with Angular 19 and vanilla CSS.
 The goal is to both learn new stuff and get better at using Angular but also CSS in order to put something on my resume.
 
+The project is ***NOT*** meant to be responsive and usable on phones as the main goal is to recreate something close to original resolution. In this case, the goal is horizontal/desktop view and not mobile.
+
 ## Cloning and running
 
 1. Clone the project with `git clone`
