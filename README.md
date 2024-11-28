@@ -12,3 +12,22 @@ The project is ***NOT*** meant to be responsive and usable on phones as the main
 3. Install node packages with `npm install`
 4. Run the project with `npx ng serve`
 5. See the website at `http://localhost:4200/`
+
+
+## Current Pages & Menus
+- [ ] Pastures
+- [ ] Pokémon Summary
+- [ ] Satchel
+- [ ] Item Storage
+- [ ] Change Moves
+- [ ] Buy Items/Shop
+- [ ] Item Exchange
+- [ ] Crafting
+- [ ] Select Appearance
+- [ ] Clothing Selection
+- [ ] Quests & Missions
+- [ ] Trainer Card/Save
+- [ ] Communications
+- [ ] Help/Settings
+- [ ] Map
+- [ ] Codex & Journal
